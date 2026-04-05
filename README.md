@@ -2,6 +2,8 @@
 
 A simple responsive financial dashboard (mock data) for exploring transactions, spending patterns, and basic insights. Includes a simulated role switch (Viewer vs Admin) to demonstrate role-based UI behavior.
 
+<a href="https://vercel.com/snehachaursias-projects/fin-dash/DTHy6ZgTtDJi6eoWvGaZus3JCWN3" target="_blank">Live Demo</a>
+
 ## Features
 
 ### Dashboard overview
